@@ -1,10 +1,10 @@
-# AIUB Object-Oriented Programming A+ Repository
+# Object-Oriented Programming (JAVA)
 
 This repository is a complete Java OOP course practice and project repository for **American International University-Bangladesh (AIUB)**. It is designed as a professional GitHub submission with Maven modules, GitHub Actions CI, package naming under `bd.edu.aiub.oop`, and practical exam-style solutions.
 
 ## What This Repository Covers
 
-| AIUB OOP Area | Evidence in Repository |
+|  OOP | Evidence in Repository |
 |---|---|
 | Basics and Memory | primitives vs references, `Scanner` validation, command-line arguments, 1D/2D arrays, matrix operations |
 | Encapsulation | private fields, validated setters/getters, constructor overloading, `this()` chaining |
